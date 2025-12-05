@@ -1,0 +1,1 @@
+This mod simply lists all the CfgMod classes in your server mod list, which is useful for using `#ifdef ModName` conditions.
